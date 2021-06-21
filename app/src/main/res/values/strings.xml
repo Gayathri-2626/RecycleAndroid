@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Recycle</string>
+    
+    <string-array name="Chumma_images">
+        <item>foodie</item>
+        <item>friend</item>
+        <item>gems</item>
+        <item>haidi</item>
+        <item>meow</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>chumaa</item>
+        <item>chumaa</item>
+        <item>chumaa</item>
+        <item>chumaa</item>
+        <item>chumaa</item>
+    </string-array>
+
+</resources>
